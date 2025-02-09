@@ -26,7 +26,7 @@ This backend application integrates with two different APIs to fetch job offer d
 ### **1️⃣ Clone the Repository**
 ```sh
  git clone https://github.com/milad-ahmd/jobs-app.git
- cd your-repository
+ cd jobs-app
 ```
 
 ### **2️⃣ Install Dependencies**
