@@ -1,0 +1,26 @@
+# Node.js
+node_modules/
+dist/
+.env
+*.log
+
+# VS Code
+.vscode/
+
+# Coverage
+coverage/
+
+# Docker
+docker-compose.override.yml
+
+# TypeScript
+*.tsbuildinfo
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Other
+.idea/
+.DS_Store
