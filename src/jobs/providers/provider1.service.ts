@@ -1,4 +1,3 @@
-// src/jobs/providers/provider1.service.ts
 import { Injectable, Logger } from "@nestjs/common";
 import axios from "axios";
 import { transformProvider1Data } from "../transformers/provider1.transformer";

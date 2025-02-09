@@ -1,4 +1,3 @@
-// src/jobs/jobs.controller.ts
 import { Controller, Get, Query, BadRequestException } from '@nestjs/common';
 import { JobsService } from './jobs.service';
 import { FilterJobsDto } from './dto/filter-jobs.dto';

@@ -7,5 +7,5 @@ export default () => ({
     password: process.env.DB_PASSWORD || 'postgres',
     name: process.env.DB_DATABASE || 'jobsdb',
   },
-  cronSchedule: process.env.CRON_SCHEDULE || '0 * * * *', // Default: once per hour
+  cronSchedule: process.env.CRON_SCHEDULE || '0 * * * *',
 });

@@ -1,4 +1,3 @@
-// src/jobs/transformers/provider1.transformer.ts
 import { CreateJobDto } from '../dto/create-job.dto';
 
 export function transformProvider1Data(item: any): CreateJobDto {

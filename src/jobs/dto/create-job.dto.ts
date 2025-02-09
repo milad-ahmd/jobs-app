@@ -1,5 +1,3 @@
-// src/jobs/dto/create-job.dto.ts
-
 import { ApiProperty } from '@nestjs/swagger';
 import { IsString, IsNumber, IsOptional, IsDate } from 'class-validator';
 
