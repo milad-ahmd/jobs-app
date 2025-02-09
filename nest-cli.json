@@ -1,0 +1,14 @@
+{
+    "compilerOptions": {
+      "tsConfigPath": "tsconfig.json"
+    },
+    "generateOptions": {
+      "spec": true,
+      "dir": "src"
+    },
+    "application": {
+      "root": "src",
+      "entryFile": "main"
+    }
+  }
+  
